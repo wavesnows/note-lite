@@ -1,1 +1,1 @@
-# note-lite
+# note Lite
